@@ -33,7 +33,7 @@ Benefits
 - [Slides & Presentations](#slides-&-presentations)
 
 ## GitHub projects
-
+- [FeatureIDE ](https://github.com/FeatureIDE/FeatureIDE): An extensible framework for feature-oriented software development
 - [Archstudio_PLA](https://github.com/varunnarisetty/Archstudio_PLA): A Feature-Oriented Environment for Modeling and Resolving Variability in Product Line Architecture.
 - [FORM-BCS](https://github.com/lerusse/FORM-BCS): Implementation of a DSL that supports the FORM/BCS (Feature Oriented Reuse Method with Business Component semantic) product line approach.
 - [AHEAD_1.5_GPL-](https://github.com/MuhammadShehzadbhatti/AHEAD_1.5_GPL-): Graph implementation using Algebraic Hierarchical Equations for Application Design (AHEAD) tool suite for Feature Oriented Software Development (FOSD).
